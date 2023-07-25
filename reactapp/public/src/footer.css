@@ -1,0 +1,27 @@
+/* Adjust the styles as per your design requirements */
+.insurance-footer {
+    background-color: #f0f0f0;
+    padding: 20px;
+  }
+  
+  .footer-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    /* max-width: 1200px;  */
+    margin: 0 auto;
+  }
+  
+  .footer-section {
+    flex: 1 1 300px;
+    margin: 10px;
+  }
+  
+  h3, h4 {
+    color: #333;
+  }
+  
+  p {
+    color: #666;
+  }
+  
